@@ -1,0 +1,64 @@
+.btn-try{
+	display: block;
+}
+#map{
+  width: 98%;
+  height: 500px;
+  margin: 10px 1% 10px 1%;
+}
+a.learn_more2{
+	font-family: 'Dosis';
+	display:block;
+	font-size:16px;
+	color:#ffffff;
+	background:#49b5e7;
+	width:178px;
+	height:46px;
+	line-height:46px;
+	border-radius:3px;
+	text-align:center;
+	font-family:''Dosis'';
+	text-transform:uppercase;
+	font-weight: 600;
+	transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-webkit-transition:all 0.2s ease-in-out;
+	}
+a.learn_more2:hover{
+	background:#222222;
+	}
+.navbar-brand i{
+ 	font-size: 12pt;
+	color: #08f2f2;
+	text-shadow: 2px 1px 0px #dbbb0c;
+	}
+
+.logo-dec {
+    color: #be9e21;
+    font-size: 18pt;
+    text-shadow: 2px 1px 0px cyan;
+}
+.banner-info h4>i{
+	text-decoration: underline double #bb39ec;
+    text-transform: capitalize;
+    color: #d4b408;
+}
+
+#myNavbar > ul {
+	background: rgba(13, 30, 66, 0.9) !important;
+}
+#work_outer{
+	background-color: #F3F4F8;
+}
+
+.search.btn{
+  border-radius: 1.5em;
+
+}
+#address.geocode{
+  border-radius: 1.5em;
+}
+.form-control {
+    display: inline;
+    width: 73%;
+}
